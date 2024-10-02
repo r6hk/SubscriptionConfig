@@ -3,3 +3,5 @@ DOMAIN-SUFFIX,shizhuang-inc.net
 DOMAIN-KEYWORD,dewu
 DOMAIN-KEYWORD,shizhuang
 DOMAIN-KEYWORD,poizon
+# Hydra Downloader
+PROCESS-NAME,hydra-download-manager.exe
