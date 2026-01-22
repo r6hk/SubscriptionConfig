@@ -1,8 +1,11 @@
 DOMAIN-SUFFIX,shizhuang-inc.com
 DOMAIN-SUFFIX,iflytek.com
 DOMAIN-SUFFIX,shizhuang-inc.net
+DOMAIN-SUFFIX,llmdevops.private
 DOMAIN-KEYWORD,dewu
 DOMAIN-KEYWORD,shizhuang
 DOMAIN-KEYWORD,poizon
 # Hydra Downloader
 PROCESS-NAME,hydra-download-manager.exe
+PROCESS-NAME,SfRemoteAppClient.exe
+PROCESS-NAME,RVLSession.exe
